@@ -4,7 +4,7 @@ anti-IE-placeholder
 anti-IE-placeholder
 
 
-<script>
+`<script>
     $(document).ready(function () {
         /* Placeholder for IE */
         if ($.browser.msie) { // 
@@ -14,4 +14,4 @@ anti-IE-placeholder
             });
         }
     });
-</script>
+</script>`
